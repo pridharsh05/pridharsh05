@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya dharshini K</h1>
-<h3 align="center">A Passionate and an optimistic student</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 # 💫 About Me:
 🔭 I’m currently pursuing **B.E Degree in Computer Science**<br><br>🌱 I’m currently learning **Web Development**<br><br>📫 How to reach me **dharshinik019@gmail.com**
