@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently pursuing **Bachelors degree in Computer Science**<br><br>🌱 I’m currently learning **Frontend Web development**<br><br>💬 Ask me about **Java,HTML,CSS,MySQL**<br><br>🤩 I’m interested in **Cloud computing, Web development, UI/UX designing**<br><br>📫 How to reach me **dharshinik019@gmail.com**
+🔭 I’m currently pursuing **Bachelors degree in Computer Science**<br><br>🌱 I’m currently learning **Web development**<br><br>📫 How to reach me **dharshinik019@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
