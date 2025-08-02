@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pridharsh05&label=Profile%20views&color=0e75b6&style=flat" alt="pridharsh05" /> </p>
 
-- 🔭 I've completed a **Bachelors Degree in Computer Science**
+- 🔭 I've completed  **Bachelors Degree in Computer Science**
 
 - 🌱 I’m currently learning **Node JS**
 
